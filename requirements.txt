@@ -1,13 +1,14 @@
 Flask
-tensorflow-cpu==2.8.0
-tflearn==0.5.0
+tensorflow-cpu
+tflearn
 numpy
+tqdm
 opencv-python
 matplotlib
-tqdm
-Pillow
 gunicorn
 h5py
+
+
 
 
 
