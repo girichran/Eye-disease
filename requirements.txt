@@ -3,5 +3,7 @@ tensorflow-cpu
 numpy
 Pillow
 gunicorn
+tqdm
+
 
 
